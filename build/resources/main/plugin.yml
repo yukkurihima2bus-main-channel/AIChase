@@ -1,0 +1,13 @@
+name: Fuka
+version: 1.0.0
+main: com.yukkurihimatubus.aIChase.AIChase
+api-version: '26.2'
+
+commands:
+  aistart:
+    description: AI Chaseを開始します
+    usage: /aistart <人数>
+
+  aistop:
+    description: AI Chaseを終了します
+    usage: /aistop
